@@ -2,6 +2,11 @@
 
 ## Webpage with JavaScript and validation
 
+![Screenshot_20230204_210950](https://user-images.githubusercontent.com/84295391/216776393-ab042eee-19bf-4ae7-b1ef-ba9d0d2256c7.png)
+
+![Screenshot_20230204_211007](https://user-images.githubusercontent.com/84295391/216776404-6e64dc6b-ba97-4f95-be58-189d9645bc71.png)
+
+
 ## Email
 
 Subject: Request for extension of deadline for project
