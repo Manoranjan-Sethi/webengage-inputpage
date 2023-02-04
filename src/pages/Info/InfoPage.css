@@ -1,0 +1,85 @@
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* .image {
+  background-image: url("../../assets/bgstyle.png");
+} */
+
+.person {
+  margin-left: -450px;
+  position: relative;
+}
+
+.free {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.cons {
+  text-align: center;
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.right {
+  /* border: 2px solid red; */
+}
+
+.input-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 30px;
+}
+
+.input {
+  outline: none;
+  border: 1px solid #dadada;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f3f7fe;
+  transition: 0.3s;
+}
+
+.input:focus {
+  border: 1px solid #00060e;
+  box-shadow: 0 0 0 5px #01060f5f;
+}
+.btn {
+  text-align: center;
+  padding: 5px 0;
+  background-color: #414141;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #000;
+}
+
+@media only screen and (max-width: 450px) {
+  .bg {
+    width: 95%;
+    margin-top: 80px;
+  }
+
+  .flex {
+    display: block;
+  }
+
+  .person {
+    margin-left: 50px;
+    margin-top: -350px;
+    width: 70%;
+  }
+  .logo {
+    width: 80%;
+    margin-left: 35px;
+  }
+  .cons {
+    margin-left: 5px;
+  }
+}
